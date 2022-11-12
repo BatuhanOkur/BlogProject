@@ -78,3 +78,5 @@ D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\re
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\BlogProject.pdb
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\BlogProject.genruntimeconfig.cache
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\ref\BlogProject.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\bin\Debug\net5.0\Humanizer.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll

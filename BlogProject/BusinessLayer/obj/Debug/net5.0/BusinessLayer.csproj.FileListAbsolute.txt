@@ -1,0 +1,17 @@
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.AssemblyReference.cache
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfoInputs.cache
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.AssemblyInfo.cs
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.deps.json
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\bin\Debug\net5.0\BusinessLayer.pdb
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\bin\Debug\net5.0\DataAccessLayer.pdb
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.csproj.CopyComplete
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\refint\BusinessLayer.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\BusinessLayer.pdb
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BusinessLayer\obj\Debug\net5.0\ref\BusinessLayer.dll
