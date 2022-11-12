@@ -18,5 +18,5 @@ namespace EntityLayer.Concrete
         public string AboutMapLocation { get; set; }
         public bool AboutStatus { get; set; }
     }
-    }
+    
 }
