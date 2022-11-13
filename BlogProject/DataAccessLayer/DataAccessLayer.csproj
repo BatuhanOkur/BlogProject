@@ -20,7 +20,6 @@
   <ItemGroup>
     <Folder Include="Concrete\" />
     <Folder Include="Context\" />
-    <Folder Include="EntityFramework\" />
   </ItemGroup>
 
   <ItemGroup>
