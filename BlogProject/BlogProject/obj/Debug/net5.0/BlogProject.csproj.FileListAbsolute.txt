@@ -157,3 +157,5 @@ D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Ra
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Navbar.cshtml.g.cs
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\HeaderAuth.cshtml.g.cs
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
