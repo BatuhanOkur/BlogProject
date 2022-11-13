@@ -65,7 +65,6 @@ D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Bl
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
-D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
@@ -157,3 +156,4 @@ D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\bin\Debug\net5.0\ru
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Navbar.cshtml.g.cs
