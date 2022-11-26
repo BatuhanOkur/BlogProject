@@ -12,5 +12,10 @@ namespace BlogProject.Controllers
             var blogs = blogManager.GetBlogListWithCategory();
             return View(blogs);
         }
+
+        public IActionResult BlogDetails(int id) 
+        {
+            return View();
+        }
     }
 }
