@@ -13,9 +13,10 @@ namespace BlogProject.Controllers
             return View(blogs);
         }
 
-        public IActionResult BlogDetails(int id) 
+        public IActionResult BlogReadAll(int id) 
         {
-            return View();
+            var values = blogManager.GetBlogByID(id);
+            return View(values);
         }
     }
 }
