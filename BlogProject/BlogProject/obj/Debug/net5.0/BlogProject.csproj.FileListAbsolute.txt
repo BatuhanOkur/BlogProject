@@ -160,3 +160,4 @@ D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Ra
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\HeaderAuth.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
