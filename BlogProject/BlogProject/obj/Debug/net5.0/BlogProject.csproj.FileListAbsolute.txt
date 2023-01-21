@@ -162,3 +162,9 @@ D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Ra
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Blog\BlogReadAll.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CommentListByBlog\Default.cshtml.g.cs
 D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Components\AddComment\Default.cshtml.g.cs
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\Razor\Views\Register\Index.cshtml.g.cs
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\bin\Debug\net5.0\FluentValidation.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\gitrepos\WebProjeleri\BlogProject\BlogProject\BlogProject\obj\Debug\net5.0\BlogProject.MvcApplicationPartsAssemblyInfo.cs

@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GrT9oAVVIlEb/Kpjjw2+AU/9rj3poo7rpIX8aBJeKawk+17waKK4LIv3484nPTB8xDa5N8zQje4wwOezfrujnA==",
+  "dgSpecHash": "AxHIwYU2riSE+a7Ga8DV/X90nIlxBCIXFIGGkIKBsVmzgMp9acNyAaZ+8de4F2Oa3EF9EWuOloYd3x9oR6rEOA==",
   "success": true,
   "projectFilePath": "D:\\gitrepos\\WebProjeleri\\BlogProject\\BlogProject\\BlogProject\\BlogProject.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ghjk2\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\ghjk2\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\ghjk2\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\ghjk2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ghjk2\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ghjk2\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
